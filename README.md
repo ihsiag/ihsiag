@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am now building this readme but ... 
-I put my works that you can see below
+I am now building this readme ....
 
+quick access to my works
 
-- スタジオものや | studio monoya : https://studiomonoya.com/
+- WEB DESIGN&DEVELOP : スタジオものや | studio monoya : https://studiomonoya.com/
 <!--
 **ihsiag/ihsiag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
