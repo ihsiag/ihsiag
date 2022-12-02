@@ -2,7 +2,7 @@
 
 I am now building this readme ....
 also contructing my website ....
-https://web-gk-web.vercel.app/
+https://gaishikudo.com
 
 quick access to my works
 
