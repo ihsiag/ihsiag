@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋  
 
-# SKILLS 🧭
-** c++/typescript **
-** openframeworks/three.js/next.js **
+### SKILLS 🧭  
+**c++/typescript**  
+**openframeworks/three.js/next.js**  
 
-# WEBSITE 👇
+### WEBSITE 👇
 ** https://gaishikudo.com **
 
 <!-- **ihsiag/ihsiag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
