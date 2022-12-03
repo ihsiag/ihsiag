@@ -1,13 +1,6 @@
 ### Hi there 👋
-
-I am now building this readme ....
-also contructing my website ....
 https://gaishikudo.com
 
-quick access to my works
-
-- WEB DESIGN&DEVELOP : スタジオものや | studio monoya : https://studiomonoya.com/
-<!--
 **ihsiag/ihsiag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
