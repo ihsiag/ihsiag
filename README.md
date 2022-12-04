@@ -2,10 +2,10 @@
 
 ### SKILLS 🧭  
   
-**- c++/typescript/html+css/python**  
-**- openframeworks/three.js/next.js**  
-**- +some 3D softwares**  
-**- +some adobe softwares**  
+**○ c++/typescript/html+css/python**  
+**○ openframeworks/three.js/next.js**  
+**○ +some 3D softwares**  
+**○ +some adobe softwares**  
   
 ### WEBSITE 👇  
 **https://gaishikudo.com**
