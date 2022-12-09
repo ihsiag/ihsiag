@@ -3,7 +3,7 @@
 ### SKILLS 🧭  
   
 **○ c++/typescript/html+css/python**  
-**○ openframeworks/GLSL/three.js/next.js**  
+**○ openframeworks/processing/GLSL/three.js/next.js/rhinoscriptsyntax/grasshopper**  
 **○ +some 3D softwares**  
 **○ +some adobe softwares**  
   
