@@ -8,7 +8,7 @@
 **○ +some adobe softwares**  
   
 ### WEBSITE 👇  
-**https://gaishikudo.com**
+**https://gaishikudo.com** (currently I have another... Please let me know if you need)
 
 ### SOCIALMEDIA 👇  
 **www.instagram.com/ihsiag**
