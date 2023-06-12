@@ -8,7 +8,9 @@
 **○ +some adobe softwares**  
   
 ### WEBSITE 👇  
-**https://gaishikudo.com** (currently I have another... Please let me know if you need)
+<!-- **https://gaishikudo.com** (currently I have another... Please let me know if you need) -->
+currently it is for invitations only.  
+Please feel free to ask to get the invitation.
 
 ### SOCIALMEDIA 👇  
 **www.instagram.com/ihsiag**
