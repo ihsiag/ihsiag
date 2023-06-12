@@ -9,7 +9,7 @@
   
 ### WEBSITE 👇  
 <!-- **https://gaishikudo.com** (currently I have another... Please let me know if you need) -->
-currently it is for invitations only.  
+Currently it is as invite-only.  
 Please feel free to ask to get the invitation.
 
 ### SOCIALMEDIA 👇  
