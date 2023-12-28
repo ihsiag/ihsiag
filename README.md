@@ -1,5 +1,8 @@
 ## Hi there 👋  
 
+I am 0ncen/0nsen, currently working for an automotive company as an employee.
+Available "After evening" & "Weekends".
+
 ### SKILLS 🧭  
   
 **○ c++/typescript/html+css/python**  
