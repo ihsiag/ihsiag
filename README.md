@@ -8,8 +8,8 @@ Available "After evening" & "Weekends".
   
 **○ c++/c#/typescript/html+css/python**  
 **○ openframeworks/processing/GLSL/three.js/next.js/rhinoscriptsyntax/grasshopper**  
-**○ UnrealEngine/Unity
-**○ Blender/Houdini(learning)
+**○ UnrealEngine/Unity**  
+**○ Blender/Houdini(learning)**  
 **○ +some 3D softwares**  
 **○ +some adobe softwares**  
   
