@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 I am 0ncen/0nsen, programmer & designer.    
-Currently am an researcher in an automotive industry.  
+Currently working as an researcher in a mobility industry.  
 Available "After evening" & "Weekends".
 
 ### SKILLS 🧭  
